@@ -121,3 +121,15 @@ body {
   font-size: 22px;
   color: white;
 }
+
+footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.footer_content{
+  display: flex;
+  flex-direction: row;
+}
